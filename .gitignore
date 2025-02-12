@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+env/
+.venv/
+
+*.log
+*.tmp
+*.swp
+
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Docker
+docker-compose.override.yml
+.env
+
+# PyCharm
+*.iml
+.idea/
+
